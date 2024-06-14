@@ -2,3 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
+
+*Rproj
+
+analysis_files
+
+mass-census_files/
